@@ -1,4 +1,7 @@
-# test coverage for  [underscore.string (v3.3.4)](http://epeli.github.com/underscore.string/)  [![npm package](https://img.shields.io/npm/v/npmtest-underscore.string.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-underscore.string) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-underscore.string.svg)](https://travis-ci.org/npmtest/node-npmtest-underscore.string)
+# npmtest-underscore.string
+
+#### basic test coverage for  [underscore.string (v3.3.4)](http://epeli.github.com/underscore.string/)  [![npm package](https://img.shields.io/npm/v/npmtest-underscore.string.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-underscore.string) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-underscore.string.svg)](https://travis-ci.org/npmtest/node-npmtest-underscore.string)
+
 #### String manipulation extensions for Underscore.js javascript library.
 
 [![NPM](https://nodei.co/npm/underscore.string.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/underscore.string)
